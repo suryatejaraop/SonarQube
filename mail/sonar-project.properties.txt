@@ -1,0 +1,4 @@
+sonar.github.oauth=a168f47d5e8caf872bf3574333ff8a46429166ec
+sonar.github.repository=suryatejaraop/SonarQube
+sonar.github.endpoint=https://github.com/suryatejaraop/SonarQube.git
+sonar.github.disableInlineComments=false
